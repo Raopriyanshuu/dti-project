@@ -1,3 +1,4 @@
+Welcome to the Solana Voting System, a revolutionary decentralized voting platform built on the Solana blockchain and powered by the Anchor framework! Our system ensures secure, transparent, and lightning-fast voting, while delivering a seamless and modern user experience through Next.js.
 In Anchor (a framework for Solana programs), **seeds** are used to derive **Program Derived Addresses (PDAs)**. PDAs are unique addresses generated deterministically based on the provided seeds, the program ID, and an optional bump value. These PDAs are used to uniquely identify accounts and ensure that the correct data is associated with the account.
 
 ### How Seeds Help in Uniqueness
